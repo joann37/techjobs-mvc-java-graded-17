@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+;
 
 /**
  * Created by LaunchCode
